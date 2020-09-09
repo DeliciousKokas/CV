@@ -16,44 +16,23 @@
 
 ## スキル
 
-### 言語
+### 開発
+
+#### 言語
 - Ruby | Go
 
-### フレームワーク
+#### フレームワーク
 - Ruby on Rails
 
-### RDB/NoSQL
+#### RDB/NoSQL
 - MySQL
 
 ### クラウド
 #### AWS
-**ネットワーキング**  
-- VPC | Route53 | ELB
-
-**コンピューティング**  
-- EC2 
-
-**ストレージ**  
-- S3 | RDS(MySQL)
-
-**コンテナ**  
-- ECS | ECR
+- VPC | Route53 | ELB | EC2 | S3 | RDS(MySQL) | ECS | ECR
 
 #### Azure
-**ネットワーキング**  
-- Vnet | NGS | LB | AppGateway | TrafficManager | VPN
-
-**コンピューティング**  
-- VM | AppService | Disk | AvailabilitySet | Images | Snapshots 
-
-**ストレージ**  
-- BlobStorage | SQLserver | Backupservice
-
-**自動化**
-- AutomationAccounts | Sendgrid
-
-**IaC**
-- ARMtemplate
+- Vnet | NGS | LB | AppGateway | TrafficManager | VPN | VM | AppService | Disk | AvailabilitySet | Images | Snapshots | BlobStorage | SQLserver | Backupservice | AutomationAccounts | Sendgrid | ARMtemplate
 
 ### ミドルウェア
 #### Linux
@@ -63,5 +42,4 @@
 - DNS | Active Directory | IIS
 
 ### その他
-- CircleCI | ConcourseCI |
-
+- CircleCI | ConcourseCI
